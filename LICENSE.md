@@ -1,4 +1,4 @@
-# 
+# automatic OBS Studio for PC | OBS Studio for Windows Addon | stream-scheduling + multi-source-capture offers the most advanced OBS Studio for PC | OBS Studio for Windows addon,
 
 
 
